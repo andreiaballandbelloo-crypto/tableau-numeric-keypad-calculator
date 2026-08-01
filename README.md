@@ -6,7 +6,7 @@ no Tableau — sem nenhuma extensão, script externo ou Hyper API. O "teclado"
 é uma planilha comum com marcas em grid, e cada clique atualiza o estado da
 conta através de ações de parâmetro.
 
-Baseado na técnica clássica **["Keyboard as a Parameter"],
+Baseado na técnica clássica ["Keyboard as a Parameter"],
 adaptada de um teclado alfabético (com Shift/Caps Lock) para um teclado
 numérico com operações matemáticas.
 
