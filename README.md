@@ -43,9 +43,10 @@ tela (ex: `500 × 62`).
 ## Estrutura do repositório
 
 ```
-├── Calculadora_Numerica.twbx              # workbook do Tableau (arquivo principal)
+├── Calculadora.twbx              # workbook do Tableau (arquivo principal)
 ├── data/
 │   └── aux_teclado.xlsx          # fonte de dados do teclado (grid 4x5)
+│   └── background.pns            # imagem de fundo do painel
 └── README.md
 ```
 
