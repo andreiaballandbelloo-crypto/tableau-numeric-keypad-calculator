@@ -46,7 +46,7 @@ tela (ex: `500 × 62`).
 ├── Calculadora.twbx              # workbook do Tableau (arquivo principal)
 ├── data/
 │   └── aux_teclado.xlsx          # fonte de dados do teclado (grid 4x5)
-│   └── background.pns            # imagem de fundo do painel
+│   └── background.png           # imagem de fundo do painel
 └── README.md
 ```
 
